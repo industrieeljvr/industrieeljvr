@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome\n\n\nInfo over industrieel ingenieur.",
+            "text": "Welcome\n\n\nHello and welcome to the documentation of Alex's Door System!\nHere you'll find more information\nabout every aspect of the asset as well as a Quick-Start guide, an FAQ-section and a Support and Contact section.\n\n\n\n\nUseful Links\n\n\nQuick-Start Guide\n\n\nFAQ\n\n\nSupport and Contact\n\n\nWrite a Review",
             "title": "Welcome"
         },
         {
             "location": "/#welcome",
-            "text": "Info over industrieel ingenieur.",
+            "text": "Hello and welcome to the documentation of Alex's Door System!\nHere you'll find more information\nabout every aspect of the asset as well as a Quick-Start guide, an FAQ-section and a Support and Contact section.   Useful Links  Quick-Start Guide  FAQ  Support and Contact  Write a Review",
             "title": "Welcome"
         },
         {
