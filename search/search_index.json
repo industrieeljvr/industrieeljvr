@@ -1,6 +1,16 @@
 {
     "docs": [
         {
+            "location": "/",
+            "text": "Welcome\n\n\nInfo over industrieel ingenieur.",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#welcome",
+            "text": "Info over industrieel ingenieur.",
+            "title": "Welcome"
+        },
+        {
             "location": "/analyse/",
             "text": "Analyse\n\n\n\n\nInhoud\n\n\nHoorcolleges\n\n\nOefenzittingen\n\n\nTesten\n\n\nExamen\n\n\n\n\n\n\nTo Do\n\n\nNa hoorcollege alles eens verwerken en zorgen dat je alles goed begrijpt\n\n\nDe opgegeven oefeningen al maken v\u00f3\u00f3r de oefenzitting\n\n\nVoor testen/examens alle oefeningen maken en goed begrijpen",
             "title": "Analyse"
